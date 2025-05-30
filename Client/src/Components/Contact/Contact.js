@@ -7,23 +7,23 @@ const Contact = () => {
       <div className="contactUs-left-para">
         <h3>Let's get in touch</h3>
         <i class="fa fa-envelope"></i>
-        <a class="mail-links" href="mailto:kashifkzmi5@gmail.com">
-          kashifkzmi5@gmail.com
+        <a class="mail-links" href="mailto:bharathisubhasri43@gmail.com">
+          bharathisubhasri43@gmail.com
         </a>
 
         <i class="fa fa-linkedin"></i>
-        <a class="mail-links" href="https://www.linkedin.com/in/kashiekzmi/">
-          User Name: kashiekzmi
+        <a class="mail-links" href="https://www.linkedin.com/in/bharathi-ayyadurai-630596253">
+          User Name: Bharathi
         </a>
 
         <i class="fa fa-github"></i>
-        <a class="mail-links" href="https://github.com/KaShiekzmi">
-          KaShiekzmi
+        <a class="mail-links" href="https://github.com/bharathi-20">
+          Bharathi
         </a>
 
         <i class="fa fa-instagram"></i>
-        <a class="mail-links" href="https://www.instagram.com/kaxhie_x/">
-          @kaxhie_x
+        <a class="mail-links" href="https://www.instagram.com/kannama8998/">
+          @kannama8998
         </a>
 
         <i class="fa fa-phone"></i>
